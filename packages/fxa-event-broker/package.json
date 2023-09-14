@@ -37,7 +37,7 @@
     "@aws-sdk/client-sqs": "^3.369.0",
     "@google-cloud/firestore": "^6.6.0",
     "@google-cloud/pubsub": "^2.19.4",
-    "@grpc/grpc-js": "^1.1.3",
+    "@grpc/grpc-js": "^1.9.3",
     "@hapi/hoek": "^11.0.2",
     "@nestjs/common": "^9.4.1",
     "@nestjs/config": "^2.3.1",
