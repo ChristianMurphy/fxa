@@ -34722,7 +34722,7 @@ fsevents@~2.1.1:
     supertest: ^6.3.0
     ts-jest: ^29.1.0
     ts-morph: ^21.0.1
-    tslib: ^2.5.0
+    tslib: ^2.6.2
     typescript: ^5.2.2
     yargs: ^17.0.1
   languageName: unknown
@@ -35292,7 +35292,7 @@ fsevents@~2.1.1:
     superagent: ^8.1.2
     supertest: ^6.3.0
     ts-jest: ^29.1.0
-    tslib: ^2.5.0
+    tslib: ^2.6.2
     typescript: ^5.2.2
   languageName: unknown
   linkType: soft
@@ -35901,7 +35901,7 @@ fsevents@~2.1.1:
     tailwindcss: ^3.3.3
     ts-jest: 29.1.0
     ts-node: ^10.9.1
-    tslib: ^2.5.0
+    tslib: ^2.6.2
     typescript: ^5.2.2
     uuid: ^9.0.0
     winston: ^3.11.0
