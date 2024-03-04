@@ -297,7 +297,7 @@
     "uuid": "^9.0.0"
   },
   "dependencies": {
-    "@fluent/langneg": "^0.6.2",
+    "@fluent/langneg": "^0.7.0",
     "@mozilla/glean": "^3.0.0",
     "@nestjs/common": "^10.2.4",
     "@nestjs/config": "^3.0.0",
