@@ -19909,12 +19909,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/nodemailer@npm:^6.4.2":
-  version: 6.4.2
-  resolution: "@types/nodemailer@npm:6.4.2"
+"@types/nodemailer@npm:^6.4.15":
+  version: 6.4.15
+  resolution: "@types/nodemailer@npm:6.4.15"
   dependencies:
     "@types/node": "*"
-  checksum: 5fce38324de0d4aa3a1627e5ad94166cf836f7558febebae79f0f5135f4b4dbd2f77ca2595025a964cbfbc70336800a89428f084db1aebe38ca345531d1f24ca
+  checksum: f6f9a2f8a669703ecc3ca6359c12345b16f6b2e5691b93c406b9af7de639c02092ec00133526e6fecd8c60d884890a7cd0f967d8e64bedab46d5c3d8be0882d7
   languageName: node
   linkType: hard
 
@@ -34799,7 +34799,7 @@ fsevents@~2.1.1:
     "@types/nock": ^11.1.0
     "@types/node": ^18.18.2
     "@types/node-zendesk": ^2.0.2
-    "@types/nodemailer": ^6.4.2
+    "@types/nodemailer": ^6.4.15
     "@types/request": 2.48.5
     "@types/safe-regex": 1.1.2
     "@types/sass": ^1
@@ -34880,7 +34880,7 @@ fsevents@~2.1.1:
     nock: ^13.3.0
     node-uap: "https://github.com/mozilla-fxa/node-uap.git#494714db3e65a4dbfae772f536c8697269174574"
     node-zendesk: ^2.2.0
-    nodemailer: ^6.7.3
+    nodemailer: ^6.9.13
     nodemon: ^2.0.19
     nyc: ^15.1.0
     otplib: ^11.0.1
@@ -48065,10 +48065,10 @@ fsevents@~2.1.1:
   languageName: node
   linkType: hard
 
-"nodemailer@npm:^6.7.3":
-  version: 6.7.3
-  resolution: "nodemailer@npm:6.7.3"
-  checksum: b94d099f00f25666fc96a7cb498045e7428045b8cc0245ce10522190fd513b586d6e31305afd019f6878f1540d14d169d0dbe2e1f77385795c7054912d822ec0
+"nodemailer@npm:^6.9.13":
+  version: 6.9.13
+  resolution: "nodemailer@npm:6.9.13"
+  checksum: 1b591ef480be2ff69480127cbff819e6593b1ef263b6f920e1a4e83e40280582daf7a14a809ef92f9828e2a70bdb3ce22b11924e209f2afe4975f9ff37e08e9d
   languageName: node
   linkType: hard
 
