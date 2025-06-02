@@ -7704,10 +7704,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@golevelup/ts-jest@npm:^0.3.2":
-  version: 0.3.3
-  resolution: "@golevelup/ts-jest@npm:0.3.3"
-  checksum: be7f2258f349e480f7a8537321743349e3b39d8fdf9dad8d93de296f0fbbb7e2891fb29872fad0aca1f973a7726fd89fba235082ef127c2cfcd1865837595bd5
+"@golevelup/ts-jest@npm:^0.7.0":
+  version: 0.7.0
+  resolution: "@golevelup/ts-jest@npm:0.7.0"
+  checksum: 09f6f5985faba25e63ec1b2140c412f2087a7f4c2f9ab6d31bd322c0d159965b29ad89b74d5befcbb082b862b64f662553e64038e3f846ba84600b59859fac4f
   languageName: node
   linkType: hard
 
@@ -34686,7 +34686,7 @@ fsevents@~2.1.1:
   version: 0.0.0-use.local
   resolution: "fxa-admin-server@workspace:packages/fxa-admin-server"
   dependencies:
-    "@golevelup/ts-jest": ^0.3.2
+    "@golevelup/ts-jest": ^0.7.0
     "@types/chance": ^1.1.2
     "@types/convict": ^6.1.1
     "@types/node": ^18.18.2
