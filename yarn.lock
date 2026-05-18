@@ -26493,6 +26493,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"camelcase@npm:^9.0.0":
+  version: 9.0.0
+  resolution: "camelcase@npm:9.0.0"
+  checksum: 377f340adaeb8ccaeab10d90b8798b7b10ed6515ff882b7a681309200d925842ee8e232904bf189432cdaa39032ae3495588c169a278e5aebdeae87fa7426876
+  languageName: node
+  linkType: hard
+
 "camelize@npm:^1.0.0":
   version: 1.0.0
   resolution: "camelize@npm:1.0.0"
@@ -35514,7 +35521,7 @@ fsevents@~2.1.1:
     babel-eslint: ^10.1.0
     babel-loader: ^9.1.3
     babel-preset-react-app: ^10.0.1
-    camelcase: ^6.3.0
+    camelcase: ^9.0.0
     classnames: ^2.3.1
     eslint: ^7.32.0
     fetch-mock: ^9.11.0
@@ -35598,7 +35605,7 @@ fsevents@~2.1.1:
     base32-encode: ^1.2.0
     bfj: ^8.0.0
     browserslist: ^4.18.1
-    camelcase: ^6.2.1
+    camelcase: ^9.0.0
     case-sensitive-paths-webpack-plugin: ^2.4.0
     class-validator: ^0.14.0
     classnames: ^2.3.1
