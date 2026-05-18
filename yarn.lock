@@ -35890,7 +35890,7 @@ fsevents@~2.1.1:
     prettier: ^2.6.2
     react: ^18.2.0
     react-dom: ^18.2.0
-    react-ga4: ^2.1.0
+    react-ga4: ^3.0.1
     react-test-renderer: ^18.2.0
     reflect-metadata: ^0.1.13
     rxjs: ^7.8.1
@@ -53272,10 +53272,10 @@ fsevents@~2.1.1:
   languageName: node
   linkType: hard
 
-"react-ga4@npm:^2.1.0":
-  version: 2.1.0
-  resolution: "react-ga4@npm:2.1.0"
-  checksum: f7fb41141418d4ad14756f1126a1e9958db37d4d84ae6cd798043dc03a390b6dba74d69311af0349f0b9580a43bda8930138194ccc29c4100efe446e2d6eb057
+"react-ga4@npm:^3.0.1":
+  version: 3.0.1
+  resolution: "react-ga4@npm:3.0.1"
+  checksum: e41a7ef79ff87f9bf7032729c850fa167d562dc2391ba70c437e21d7db44275d222920e1239cb91692495f917722340e5be5ce2112a8f5457d6bb9bcf79d8ed8
   languageName: node
   linkType: hard
 
