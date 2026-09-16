@@ -18522,14 +18522,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@type-cacheable/core@npm:^13.0.0":
-  version: 13.0.0
-  resolution: "@type-cacheable/core@npm:13.0.0"
+"@type-cacheable/core@npm:^14.2.2":
+  version: 14.2.2
+  resolution: "@type-cacheable/core@npm:14.2.2"
   dependencies:
     blueimp-md5: ^2.19.0
-    reflect-metadata: ^0.1.13
-    serialize-javascript: ^6.0.0
-  checksum: 866e74608e94e0752ff9cad3bb758f17fea06168cdababa9741d67717b55912bc8ecd90f92f6b9023403384e6cd84a97ef4e73d608dd4db513be870e20206f9b
+    reflect-metadata: ^0.2.2
+    serialize-javascript: ^7.0.4
+  checksum: 00d4bd716bfc9792dc3983bf23af10bb4cfc76059519215d2087e86906e4256b9eb791f32f7d6a4d4c008b27d442a6f6a281055620c5fe32d6226cc1c5c9e8c1
   languageName: node
   linkType: hard
 
@@ -34776,7 +34776,7 @@ fsevents@~2.1.1:
     "@storybook/addon-toolbars": ^7.0.23
     "@storybook/html": ^7.5.2
     "@storybook/html-webpack5": ^7.0.23
-    "@type-cacheable/core": ^13.0.0
+    "@type-cacheable/core": ^14.2.2
     "@type-cacheable/ioredis-adapter": ^10.0.4
     "@types/async-retry": ^1
     "@types/babel__core": 7.1.14
@@ -35683,7 +35683,7 @@ fsevents@~2.1.1:
     "@nestjs/common": ^10.2.4
     "@nestjs/config": ^3.0.0
     "@nestjs/core": ^10.2.4
-    "@type-cacheable/core": ^13.0.0
+    "@type-cacheable/core": ^14.2.2
     "@type-cacheable/ioredis-adapter": ^10.0.4
     "@types/accept-language-parser": ^1.5.3
     "@types/chai": ^4.2.18
@@ -54172,6 +54172,13 @@ fsevents@~2.1.1:
   languageName: node
   linkType: hard
 
+"reflect-metadata@npm:^0.2.2":
+  version: 0.2.2
+  resolution: "reflect-metadata@npm:0.2.2"
+  checksum: a66c7b583e4efdd8f3c3124fbff33da2d0c86d8280617516308b32b2159af7a3698c961db3246387f56f6316b1d33a608f39bb2b49d813316dfc58f6d3bf3210
+  languageName: node
+  linkType: hard
+
 "reflect.getprototypeof@npm:^1.0.4":
   version: 1.0.4
   resolution: "reflect.getprototypeof@npm:1.0.4"
@@ -56002,6 +56009,13 @@ resolve@1.1.7:
   dependencies:
     randombytes: ^2.1.0
   checksum: 3c4f4cb61d0893b988415bdb67243637333f3f574e9e9cc9a006a2ced0b390b0b3b44aef8d51c951272a9002ec50885eefdc0298891bc27eb2fe7510ea87dc4f
+  languageName: node
+  linkType: hard
+
+"serialize-javascript@npm:^7.0.4":
+  version: 7.1.1
+  resolution: "serialize-javascript@npm:7.1.1"
+  checksum: 52b96215601a0cd20e61bc6c0906b0a55820c6bca3eea8d6adbc68117cbbce386a77388ce116020e4d48af0d371c92e722ab80499114c987f30fe3a9ac83d05a
   languageName: node
   linkType: hard
 
