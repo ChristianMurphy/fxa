@@ -18679,13 +18679,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/backbone@npm:^1.4.10":
-  version: 1.4.10
-  resolution: "@types/backbone@npm:1.4.10"
+"@types/backbone@npm:^1.4.23":
+  version: 1.4.23
+  resolution: "@types/backbone@npm:1.4.23"
   dependencies:
     "@types/jquery": "*"
     "@types/underscore": "*"
-  checksum: 20f50b99763878261ba5e8fc6d93dad9a4df9720195f6f7eaee207283d3441759593e3be1f57c8e16fc0ef08e5bd758902d44b0cf53efda41704bf365553667a
+  checksum: 6c80cd6f64748ef7feb730683bc35f5da95aaab05c44aae7387dd43ccea4d6330779a6eda95dfc851118d54c318337bf38c2e89571ff342677ce1886c29c306e
   languageName: node
   linkType: hard
 
@@ -24935,12 +24935,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"backbone@npm:^1.4.1":
-  version: 1.4.1
-  resolution: "backbone@npm:1.4.1"
+"backbone@npm:^1.6.1":
+  version: 1.6.1
+  resolution: "backbone@npm:1.6.1"
   dependencies:
     underscore: ">=1.8.3"
-  checksum: 709bd7dde1bbd93eee9375ae9bcd33efa9f253a56f5bf22d67197d8e3c57574f93ab230dcbb750d224a0d9bc58a66ade1d4c6082b998b6c89e939c2e66b65832
+  checksum: 77b7e791803282b9652a9a17107fe089b2b34ee692df3e671ff779d218a9cc8d83fa465ddb1a7b3643cd231fc7dc3b8d46489edd42f1c56306bd127a20d4e0bd
   languageName: node
   linkType: hard
 
@@ -34944,7 +34944,7 @@ fsevents@~2.1.1:
     "@babel/preset-react": ^7.22.5
     "@babel/preset-typescript": ^7.23.2
     "@mozilla/glean": ^3.0.0
-    "@types/backbone": ^1.4.10
+    "@types/backbone": ^1.4.23
     "@types/postcss-import": ^14
     "@types/sinon-chai": 3.2.5
     "@types/sinon-express-mock": 1.3.9
@@ -34953,7 +34953,7 @@ fsevents@~2.1.1:
     babel-eslint: ^10.1.0
     babel-loader: ^9.1.3
     babel-plugin-dynamic-import-webpack: 1.1.0
-    backbone: ^1.4.1
+    backbone: ^1.6.1
     backbone.cocktail: 0.5.15
     base32-decode: 1.0.0
     base64url: 3.0.1
